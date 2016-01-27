@@ -56,7 +56,6 @@ GEM
     mime-types (1.25.1)
     minitest (4.7.5)
     multi_json (1.11.2)
-    mysql2 (0.3.17)
     pg (0.17.1)
     polyglot (0.3.5)
     rack (1.5.5)
@@ -118,7 +117,6 @@ DEPENDENCIES
   jbuilder (~> 1.2)
   jquery-rails
   localtunnel
-  mysql2
   pg
   rails (= 4.0.2)
   sass-rails (~> 4.0.0)
